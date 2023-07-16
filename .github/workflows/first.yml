@@ -6,7 +6,7 @@ jobs:
   ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - run: datet
+    - run: date
   windows:
     runs-on: windows-latest
     steps:
